@@ -49,4 +49,3 @@ codes couvert/non couverts par les tests.
 -ISNARD Colin
 -MOUMEN Amir
 -GILIBERTO Nicolas
-
